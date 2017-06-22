@@ -1,5 +1,5 @@
 # Application Preferences plugin for Phonegap #
-This version supports Cordova 3.x.
+###This version supports Cordova 3.x. and not greater than 3.x   
 
 Originally by Simon MacDonald (@macdonst), ported to plugman and some other cleanup by Dan Moore (@mooreds).  Dan Moore also pulled in the iOS code, written by Tue Topholm / Sugee
 
